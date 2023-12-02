@@ -5,3 +5,6 @@
 [submodule "idiogramFISH"]
 	path = idiogramFISH
 	url = https://gitlab.com/ferroao/idiogramfish
+[submodule "shinyInvoice"]
+	path = shinyInvoice
+	url = https://github.com/cran/shinyInvoice
