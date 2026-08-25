@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "idiogramFISH"]
-	path = idiogramFISH
-	url = https://gitlab.com/ferroao/idiogramfish
 [submodule "shinyInvoice"]
 	path = shinyInvoice
 	url = https://github.com/cran/shinyInvoice
